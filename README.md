@@ -7,4 +7,5 @@
 1. https://github.com/webpro/awesome-dotfiles
 
 ### zsh
+Dependencies
 1. http://ohmyz.sh/
