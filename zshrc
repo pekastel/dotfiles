@@ -100,3 +100,6 @@ export LANGUAGE=en_US.UTF-8
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+# The next line updates PATH for Netlify's Git Credential Helper.
+if [ -f '/Users/pablo/.netlify/helper/path.zsh.inc' ]; then source '/Users/pablo/.netlify/helper/path.zsh.inc'; fi
